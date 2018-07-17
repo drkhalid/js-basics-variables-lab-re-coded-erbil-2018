@@ -1,6 +1,6 @@
 // Code your solution in this file!
 const companyName = 'Scuber'
 
-vir mostProfitableNeighborhood ="Chelsea"
+let mostProfitableNeighborhood ="Chelsea"
 
-vir companyCeo = 'Susan Smith'
+let companyCeo = 'Susan Smith'
